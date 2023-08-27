@@ -19,10 +19,10 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-2577925-1",
-"yandex_inter":"R-M-2577925-3",
-"yandex_native":"R-M-2577925-2",
-"yandex_reward":"R-M-2577925-4",
+"yandex_banner":"R-M-2714953-1",
+"yandex_inter":"R-M-2714953-4",
+"yandex_native":"R-M-2714953-3",
+"yandex_reward":"R-M-2714953-5",
   
 "vungle_appid":"645e64defe20a95ccb12bd7b ",
 "vungle_inter":"INTER-5944534",
@@ -37,21 +37,23 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
 
 },
   "my_data":[
-  {"desc1":"In Sneaky Sasquatc players guide their Sasquatch through various activitie and have fun while evading the watchful eyes of the park authorities. ",
-   "photo1":"https://iili.io/Ht07B6b.webp"},
-  {"desc2":"The Sasquatch must sneak around the park, pilfering picnic baskets, stealing snacks from campers, and raiding trash cans for goodies. Players can explore the park, visit different locations, and interact with various characters to complete quests and missions.","photo2":"https://iili.io/Ht07fne.webp"},
-  {"desc3":"Throughout the game, players will encounter park rangers who are always on the lookout for the elusive Sasquatch. To avoid suspicion, players must dress up in disguises, sneak through bushes, and use cunning tactics to stay out of sight. If caught, the game is not over, but the Sasquatch will have to find a way to escape from the rangers and return to its sneaky activities.","photo3":"https://iili.io/Ht07qMu.webp"},
-  {"desc4":"As players progress, they can unlock new areas of the park, discover secret hiding spots, and uncover hidden treasures. The game offers a mix of stealth, exploration, and casual gameplay, making it enjoyable for players of all ages.","photo4":"https://iili.io/Ht07qMu.webp"},
-  {"desc5":"Sneaky Sasquatch has received praise for its engaging gameplay, charming graphics, and witty humor. It's a game that appeals to both casual players looking for a fun time and more dedicated players aiming to complete all the quests and challenges.","photo5":"https://iili.io/Ht07Ft9.webp"},
-  {"descd":"If you enjoy lighthearted adventures with a touch of stealth and humor, Sneaky Sasquatch might be the perfect game for you. Whether you're sneaking around the park or causing delightful mayhem, it's an enjoyable and endearing experience that will keep you entertained for hours ","photod":"https://iili.io/Ht07nFj.webp"}
+  {"desc1":"In the realm of mobile gaming, few titles have captured the excitement and intensity quite like Standoff 2  Developed by Axlebolt, this first-person shooter has taken the mobile gaming landscape by storm, offering a dynamic and immersive experience for players.
+
+ ",
+   "photo1":"https://iili.io/HyYATN9.webp"},
+  {"desc2":"Standoff 2 is a significant milestone in the evolution of mobile gaming. From its humble beginnings, mobile gaming has evolved from simple puzzle games to sophisticated experiences that rival console counterparts. The introduction of first-person shooters on mobile devices marked a turning point, and Standoff 2 has played a pivotal role in this evolution.","photo2":"https://iili.io/HyYA7Pj.webp"},
+  {"desc3":"Weapons also play a crucial role in the game's mechanics. Players can tailor their loadouts to suit their preferences, enabling a personalized and strategic approach to each match..","photo3":"https://iili.io/Ht07qMu.webp"},
+  {"desc4":"One of Standoff 2 s standout features is its thriving community. Players actively engage in discussions, strategies, and content creation, fostering a sense of camaraderie. In-game events, tournaments, and social features further promote connections among players.","photo4":"https://iili.io/HyYAccQ.webp"},
+  {"desc5":"The game's competitive scene has also gained significant traction. With its emphasis on skill-based gameplay and teamwork, Standoff 2 has become a favorite in the eSports arena. Players and teams from across the globe participate in high-stakes matches, showcasing their prowess and strategic acumen..","photo5":"https://iili.io/HyYAlSV.webp"},
+  {"descd":"Standoff 2's impact on mobile gaming is undeniable. With its dynamic gameplay, vibrant community, competitive opportunities, and impressive audio-visual design, the game has set new standards for mobile FPS experiences. As it continues to captivate players worldwide, Standoff 2 stands as a testament to the boundless potential of mobile gaming. ","photod":"https://iili.io/HyYA5Mb.webp"}
    ]
  
 }
